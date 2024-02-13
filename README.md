@@ -1,4 +1,4 @@
 # İlk Repo
 
-- İlk Commit
-
+- İlk Satır
+- İkinci Satır
