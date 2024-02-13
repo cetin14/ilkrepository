@@ -1,0 +1,4 @@
+# İlk Repo
+
+- İlk Commit
+
